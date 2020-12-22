@@ -3,3 +3,4 @@ Actually, tensorflow examples...
 
 Some scripts that perform many matrix multiplications in different ways with timers.
 The higher the number of an example, the faster it runs.
+However, the more tensorflow-ish the code becomes.
